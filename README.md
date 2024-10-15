@@ -1,11 +1,10 @@
 ## 👋 Hola, soy Carlos
 
 ### ✍ Sobre mí
-Técnico en Producción Audiovisual y Desarrollo de Aplicaciones
-Multiplataforma, con formación en edición de vídeo con Adobe
-Premiere Pro, Social Media Marketing y Community Management.
-Busco especializarme como desarrollador de aplicaciones Java, web o móviles. De mí puedo destacar por mi creatividad, mi capacidad de aprendizaje
-y buen manejo de idiomas, incluyendo un nivel avanzado de inglés.
+Técnico en Producción Audiovisual y Desarrollo de Aplicaciones Multiplataforma, con formación en edición de vídeo con Adobe Premiere Pro, Social Media Marketing y Community Management.
+
+Busco especializarme como desarrollador de aplicaciones Java, web o móviles.<br/>
+De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen manejo de idiomas, incluyendo nivel avanzado de inglés.
 <br/><br/>
 ### 💻 Competencias digitales
 #### Lenguajes de programación
