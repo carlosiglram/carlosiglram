@@ -16,6 +16,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge)
 #### Frameworks y librerías
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-5bb81e?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-d87b06?style=for-the-badge)
 ![JavaFX](https://img.shields.io/badge/JavaFX-d87b06?style=for-the-badge)
 ![Java_Swing](https://img.shields.io/badge/Java_Swing-d87b06?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-01a4f0?style=for-the-badge)
@@ -25,7 +26,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00578e?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-53961c?style=for-the-badge)
-![SQL_Server_(SSMS)](https://img.shields.io/badge/SQL_Server_(SSMS)-d8ce1b?style=for-the-badge)
+![SQL_Server_Manager_(SSMS)](https://img.shields.io/badge/SQL_Server_Manager_(SSMS)-d8ce1b?style=for-the-badge)
 ![PuTTY](https://img.shields.io/badge/PuTTY-00578e?style=for-the-badge)
 #### IDEs
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-f450a7?style=for-the-badge)
