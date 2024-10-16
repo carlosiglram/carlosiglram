@@ -34,6 +34,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Netbeans](https://img.shields.io/badge/Netbeans-5bb81e?style=for-the-badge)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-aa44d7?style=for-the-badge)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-01a4f0?style=for-the-badge)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-53961c?style=for-the-badge)
 #### Otros
 ![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-d87b06?style=for-the-badge)
