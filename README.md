@@ -27,7 +27,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL_Server_Manager_(SSMS)](https://img.shields.io/badge/SQL_Server_Manager_(SSMS)-d8ce1b?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL_Server_Manager_(SSMS)](https://img.shields.io/badge/SQL_Server_Manager_(SSMS)-FCD535?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-005C84?style=for-the-badge)
 #### IDEs
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
