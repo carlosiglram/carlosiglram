@@ -9,8 +9,8 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ### 💻 Competencias digitales
 #### Lenguajes de programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-aa44d7?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-d8ce1b?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,14 +21,14 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Java_Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-01a4f0?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
-![WPF](https://img.shields.io/badge/WPF-007acc?style=for-the-badge&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 #### Gestión de bases de datos
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL_Server_Manager_(SSMS)](https://img.shields.io/badge/SQL_Server_Manager_(SSMS)-d8ce1b?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-00578e?style=for-the-badge)
+![PuTTY](https://img.shields.io/badge/PuTTY-005C84?style=for-the-badge)
 #### IDEs
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -41,9 +41,9 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0175C2.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-0175C2?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere](https://img.shields.io/badge/Premiere_Pro-aa44d7?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-5a0e79?style=for-the-badge&logo=odoo&logoColor=white)
 <br/><br/>
