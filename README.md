@@ -39,8 +39,8 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Postman](https://img.shields.io/badge/Postman-d87b06?style=for-the-badge)
 <br/><br/>
 ### 📈 Estadísticas de GitHub
-![Carlos'_GitHub_stats](https://github-readme-stats.vercel.app/api?username=carlosiglram&show_icons=true&theme=transparent)
-[![Carlos'_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosiglram)](https://github.com/anuraghazra/github-readme-stats)
+![Carlos'_GitHub_stats](https://github-readme-stats.vercel.app/api?username=carlosiglram&show_icons=true&theme=default)
+[![Carlos'_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosiglram&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ### 🌐 Mis páginas web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge)](https://www.linkedin.com/in/carlosiglram/)
