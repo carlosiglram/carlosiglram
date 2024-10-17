@@ -48,7 +48,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Odoo](https://img.shields.io/badge/Odoo-5a0e79?style=for-the-badge&logo=odoo&logoColor=white)
 <br/><br/>
 ### 📈 Estadísticas de GitHub
-![Carlos'_GitHub_stats](https://github-readme-stats.vercel.app/api?username=carlosiglram&show_icons=true&theme=default)
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosiglram)](https://github.com/anuraghazra/github-readme-stats)
 [![Carlos'_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosiglram&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ### 🌐 Mis páginas web
