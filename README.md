@@ -34,7 +34,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual_Studio_Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-53961c?style=for-the-badge&logo=android&logoColor=white)
 #### Otros
 ![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white)
