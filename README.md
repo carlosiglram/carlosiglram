@@ -47,10 +47,6 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![Premiere](https://img.shields.io/badge/Premiere_Pro-aa44d7?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-5a0e79?style=for-the-badge&logo=odoo&logoColor=white)
 <br/><br/>
-### 📈 Estadísticas de GitHub
-[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosiglram)](https://github.com/anuraghazra/github-readme-stats)
-[![Carlos'_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosiglram&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
 ### 🌐 Mis páginas web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosiglram/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/carlosiglesias9)
