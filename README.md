@@ -16,6 +16,7 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 #### Frameworks y librerías
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java_Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,19 +51,3 @@ De mí puedo destacar mi creatividad, mi capacidad de aprendizaje y un buen mane
 ### 🌐 Mis páginas web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosiglram/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/carlosiglesias9)
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
